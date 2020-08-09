@@ -13,13 +13,12 @@ let flyData = [{
     time:"2020-2-28",
     title:"酷",
     desc:"很酷",
-    src:"aa"
+    src:"3D Drag"
 },{
     type:"Js",
     author:"if(false)",
     time:"2020-2-28",
     title:"酷",
     desc:"很酷",
-    src:"bb"
+    src:"3D Drag"
 }];
-console.log('ds')
